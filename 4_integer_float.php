@@ -11,9 +11,7 @@
 
 $integer = 1000;
 $float = 500.4231;
-$jumlahinteger = $integer + $float;
 
-echo "integer pertama adalah $integer <br>";
-echo "jika \$integer = 1000 dan \$float = 500.4231, maka penjumlahannya " . $jumlahinteger;
+echo "untuk \$integer = 1000 dan \$float = $float";
 
 ?>
