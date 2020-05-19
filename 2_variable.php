@@ -7,11 +7,17 @@
  * 
  */
 
-    // Ini adalah variable
+    /**
+     * Ini adalah variable
+     * Variabel tidak boleh diawali atau hanya diisi dengan angka
+     * Boleh diawali dengan underscore
+     */
+
     $x = "try variable";
+    $_x1 = "try variable";
 
     // mencoba print isi dari variable
     echo $x;
-    echo "<br> this is " . $x . " too";
+    echo "<br> this is " . $_x1 . " too";
 
 ?>
