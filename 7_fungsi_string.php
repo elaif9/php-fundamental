@@ -1,10 +1,10 @@
 <?php 
 /**
  * Program PHP ketujuh = fungsi string  
- * Mengetahui mengetahui fungsi-fungsi string pada PHP 
+ * Mengetahui fungsi-fungsi string pada PHP 
  * 
  * Operasi yang bisa digunakan adalah
- *      menghitung string (strlen), 
+ *      menghitung string (strlen), menghitung kata (str_word_count), mengganti nilai string (str_replace), mengulang nilai string (str_repeat)
  * 
  * Untuk menghitung karakter dan spasi -> strlen(kalimat)
  * Untuk menghitung jumlah kata -> str_word_count(kalimat)
