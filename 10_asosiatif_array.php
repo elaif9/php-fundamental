@@ -10,7 +10,7 @@
  * 
  * Metode array_value: untuk mengeluarkan nomor index pada key
  * Metode array_keys: untuk mengeluarkan nomor index beserta nama key
- * Metode array_merge:
+ * Metode array_merge: untuk menggabungkan dua atau lebih array
  * */
 
 $elektronik = array("tv" => "panasonic",
